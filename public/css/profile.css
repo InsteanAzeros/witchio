@@ -1,0 +1,54 @@
+@import url(https://fonts.googleapis.com/css?family=Nunito);@import url(https://fonts.googleapis.com/css2?family=Russo+One&display=swap);@import url(https://fonts.googleapis.com/css2?family=Roboto:wght@100&display=swap);@import url(https://fonts.googleapis.com/css2?family=Allerta&display=swap);.profileForm {
+  width: 60%;
+  margin: auto;
+}
+
+.profileForm p {
+  font-size: 1.1rem;
+}
+
+.profileForm p span {
+  font-size: 1.5rem;
+}
+
+.datadisplay {
+  display: flex;
+}
+
+.datadisplay input {
+  width: 50%;
+}
+
+.datadisplay p {
+  padding-top: 0.4rem;
+  padding-left: 2rem;
+}
+
+select {
+  max-width: 200px;
+}
+
+form {
+  display: flex;
+  flex-direction: column;
+}
+
+input[type=submit] {
+  margin-top: 1.5rem;
+  font-family: "Russo One";
+  width: 10rem;
+}
+
+#title {
+  text-align: left;
+  margin-left: 0;
+}
+
+label {
+  font-size: 15px;
+}
+
+h4 {
+  margin-top: 1rem;
+}
+

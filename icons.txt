@@ -1,0 +1,17 @@
+- Font awesome CDN tag : 
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.14.0/css/all.min.css" integrity="sha512-1PKOgIY59xJ8Co8+NE6FZ+LOAZKjy+KY8iq0G4B3CyeY6wYHN3yt9PW0XpSriVlkMXe40PTKnXrLnZ9+fkDaog==" crossorigin="anonymous" />
+
+- Liked : <i class="fas fa-thumbs-up"></i>
+	https://fontawesome.com/icons/thumbs-up?style=solid
+
+- Not Liked : <i class="far fa-thumbs-up"></i>
+	https://fontawesome.com/icons/thumbs-up?style=regular
+
+- Report : <i class="far fa-flag"></i>
+	https://fontawesome.com/icons/flag?style=regular
+
+- Commnent : <i class="far fa-comment"></i>
+	https://fontawesome.com/icons/comment?style=regular
+
+- Share : <i class="fas fa-share-alt"></i>
+https://fontawesome.com/icons/share-alt?style=solid
