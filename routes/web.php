@@ -17,10 +17,8 @@ use Illuminate\Support\Facades\Auth;
 /* ------------------------------------------------------------ */
 
 //* Main page
-// Route::get('/', 'PostController@main')->name('main');
-Route::get('/', function () {
-    return 'hellooooo';
-})->name('main');
+Route::get('/', 'PostController@main')->name('main');
+
 /* ------------------------------------------------------------ */
 
 //* Show posts
